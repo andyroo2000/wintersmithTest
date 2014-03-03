@@ -43,8 +43,3 @@ with Jekyll. Thinking in JavaScript from end to end is delightful.
 Secondly, I can use my sweet, sweet Jade templating engine, which I already know
 and love and stop wasting time trying to wrangle Liquid to do things that it
 doesn't want to do.
-
-### The Future
-
-I know I've said this before, but this time I mean it (for a little while)...
-I think this is my blogging home for the foreseeable future.
